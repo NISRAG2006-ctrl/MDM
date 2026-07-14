@@ -1,0 +1,10 @@
+{
+    "theme": "Dark",
+    "color_theme": "blue",
+    "baud_rate": 115200,
+    "refresh_rate_ms": 50,
+    "graph_speed_points": 100,
+    "notification_sounds": true,
+    "auto_connect": true,
+    "last_com_port": "COM9"
+}
